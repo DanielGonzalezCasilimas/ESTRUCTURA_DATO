@@ -1,0 +1,16 @@
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\bin\Debug\net5.0\Problema 3.exe
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\bin\Debug\net5.0\Problema 3.deps.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\bin\Debug\net5.0\Problema 3.runtimeconfig.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\bin\Debug\net5.0\Problema 3.runtimeconfig.dev.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\bin\Debug\net5.0\Problema 3.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\bin\Debug\net5.0\ref\Problema 3.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\bin\Debug\net5.0\Problema 3.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\obj\Debug\net5.0\Problema 3.csproj.AssemblyReference.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\obj\Debug\net5.0\Problema 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\obj\Debug\net5.0\Problema 3.AssemblyInfoInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\obj\Debug\net5.0\Problema 3.AssemblyInfo.cs
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\obj\Debug\net5.0\Problema 3.csproj.CoreCompileInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\obj\Debug\net5.0\Problema 3.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\obj\Debug\net5.0\ref\Problema 3.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\obj\Debug\net5.0\Problema 3.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 3\obj\Debug\net5.0\Problema 3.genruntimeconfig.cache

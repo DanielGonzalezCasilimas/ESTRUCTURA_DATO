@@ -1,0 +1,16 @@
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\bin\Debug\net5.0\Problema 10.exe
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\bin\Debug\net5.0\Problema 10.deps.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\bin\Debug\net5.0\Problema 10.runtimeconfig.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\bin\Debug\net5.0\Problema 10.runtimeconfig.dev.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\bin\Debug\net5.0\Problema 10.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\bin\Debug\net5.0\ref\Problema 10.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\bin\Debug\net5.0\Problema 10.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\obj\Debug\net5.0\Problema 10.csproj.AssemblyReference.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\obj\Debug\net5.0\Problema 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\obj\Debug\net5.0\Problema 10.AssemblyInfoInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\obj\Debug\net5.0\Problema 10.AssemblyInfo.cs
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\obj\Debug\net5.0\Problema 10.csproj.CoreCompileInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\obj\Debug\net5.0\Problema 10.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\obj\Debug\net5.0\ref\Problema 10.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\obj\Debug\net5.0\Problema 10.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad l 10 Ejercicios\Problema 10\obj\Debug\net5.0\Problema 10.genruntimeconfig.cache
